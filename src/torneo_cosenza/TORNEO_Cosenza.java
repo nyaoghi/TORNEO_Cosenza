@@ -14,6 +14,8 @@ public class TORNEO_Cosenza {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("prova sincronizzazione");
+        
         // TODO code application logic here
     }
     
