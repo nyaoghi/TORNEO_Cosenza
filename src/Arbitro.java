@@ -9,4 +9,7 @@
  */
 public class Arbitro {
     
+    public Arbitro(){
+        System.out.println("Inizio partita");
+    }
 }
