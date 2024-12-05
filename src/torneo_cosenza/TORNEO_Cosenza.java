@@ -14,9 +14,7 @@ public class TORNEO_Cosenza {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         System.out.println("Modifica 2");
          
-        System.out.println("Modifica uno");
         // TODO code application logic here
     }
     
