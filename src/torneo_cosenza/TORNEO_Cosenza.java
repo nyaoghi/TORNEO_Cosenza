@@ -6,7 +6,8 @@ package torneo_cosenza;
 
 /**
  *
- * @author olgac
+ * @author olga cosenza
+ * @see Scheda Esercitazione
  */
 public class TORNEO_Cosenza {
 
